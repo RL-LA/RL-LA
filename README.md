@@ -1,7 +1,7 @@
-Meu nome é Rafaella Lima Lemes✨
-Estou estudando tecnologia pelo Alura Start✨
-Estou me desenvolvendo na linguagem JavaScript ✨
-Utilizo esse espaço para minha organização ✨
+Meu nome é Rafaella Lima Lemes. 
+Estou estudando tecnologia pelo Alura Start. 
+Estou me desenvolvendo na linguagem JavaScript. 
+Utilizo esse espaço para minha organização. 
 
 ### Você pode entrar em contato comigo.📬
 
